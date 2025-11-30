@@ -3,7 +3,7 @@
  * Handles UI, player input, and local game rendering.
  */
 
-import { Players, StarterGui, UserInputService, Workspace } from "@rbxts/services";
+import { Players, UserInputService } from "@rbxts/services";
 import { CONFIG, formatMessage } from "shared";
 
 // Get the local player
