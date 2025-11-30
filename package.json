@@ -1,0 +1,26 @@
+{
+  "name": "manara-studio",
+  "version": "1.0.0",
+  "description": "A Roblox game built with TypeScript using roblox-ts",
+  "main": "index.js",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc --watch",
+    "lint": "rbxtsc",
+    "test": "rbxtsc"
+  },
+  "keywords": [
+    "roblox",
+    "roblox-ts",
+    "game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^2.3.0-types.1",
+    "@rbxts/services": "^1.6.0",
+    "@rbxts/types": "^1.0.825",
+    "roblox-ts": "^2.3.0",
+    "typescript": "^5.6.3"
+  }
+}

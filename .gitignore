@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# roblox-ts
+*.rbxlx.lock
+*.rbxl.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
